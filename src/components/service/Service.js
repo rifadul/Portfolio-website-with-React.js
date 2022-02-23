@@ -2,6 +2,6 @@ import React from 'react'
 import './service.css'
 export default function Service() {
     return (
-        <div className="container">Service</div>
+        <section id="service" className="service">Service</section>
     )
 }

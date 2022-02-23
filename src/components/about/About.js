@@ -3,6 +3,6 @@ import './about.css'
 
 export default function About() {
     return (
-        <div className="about">About</div>
+        <section id="about" className="about">About</section>
     )
 }
